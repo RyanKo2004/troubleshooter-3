@@ -30,7 +30,7 @@ A troubleshooting agent powered by claude that helps junior engineers at the NOC
 ### 1. set up
 - ensure you are in this directory
 - perform the command 'claude' in the terminal
-- once claude is open, perform the command 'read system_instructions.md
+- once claude is open, perform the command 'read system_instructions.md'
 
 ### 2. how to use
 - simply type your issue into claude and await response
